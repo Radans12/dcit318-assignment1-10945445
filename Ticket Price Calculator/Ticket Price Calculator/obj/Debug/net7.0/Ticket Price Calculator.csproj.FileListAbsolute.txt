@@ -1,0 +1,15 @@
+/Users/radans/Projects/Ticket Price Calculator/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator
+/Users/radans/Projects/Ticket Price Calculator/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.deps.json
+/Users/radans/Projects/Ticket Price Calculator/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.runtimeconfig.json
+/Users/radans/Projects/Ticket Price Calculator/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.dll
+/Users/radans/Projects/Ticket Price Calculator/Ticket Price Calculator/bin/Debug/net7.0/Ticket Price Calculator.pdb
+/Users/radans/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.csproj.AssemblyReference.cache
+/Users/radans/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radans/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.AssemblyInfoInputs.cache
+/Users/radans/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.AssemblyInfo.cs
+/Users/radans/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.csproj.CoreCompileInputs.cache
+/Users/radans/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.dll
+/Users/radans/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/refint/Ticket Price Calculator.dll
+/Users/radans/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.pdb
+/Users/radans/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/Ticket Price Calculator.genruntimeconfig.cache
+/Users/radans/Projects/Ticket Price Calculator/Ticket Price Calculator/obj/Debug/net7.0/ref/Ticket Price Calculator.dll
