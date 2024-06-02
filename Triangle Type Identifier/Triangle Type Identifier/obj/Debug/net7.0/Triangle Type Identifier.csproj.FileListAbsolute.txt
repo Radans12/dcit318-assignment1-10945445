@@ -1,0 +1,15 @@
+/Users/radans/Projects/Triangle Type Identifier/Triangle Type Identifier/bin/Debug/net7.0/Triangle Type Identifier
+/Users/radans/Projects/Triangle Type Identifier/Triangle Type Identifier/bin/Debug/net7.0/Triangle Type Identifier.deps.json
+/Users/radans/Projects/Triangle Type Identifier/Triangle Type Identifier/bin/Debug/net7.0/Triangle Type Identifier.runtimeconfig.json
+/Users/radans/Projects/Triangle Type Identifier/Triangle Type Identifier/bin/Debug/net7.0/Triangle Type Identifier.dll
+/Users/radans/Projects/Triangle Type Identifier/Triangle Type Identifier/bin/Debug/net7.0/Triangle Type Identifier.pdb
+/Users/radans/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.csproj.AssemblyReference.cache
+/Users/radans/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radans/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.AssemblyInfoInputs.cache
+/Users/radans/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.AssemblyInfo.cs
+/Users/radans/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.csproj.CoreCompileInputs.cache
+/Users/radans/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.dll
+/Users/radans/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/refint/Triangle Type Identifier.dll
+/Users/radans/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.pdb
+/Users/radans/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/Triangle Type Identifier.genruntimeconfig.cache
+/Users/radans/Projects/Triangle Type Identifier/Triangle Type Identifier/obj/Debug/net7.0/ref/Triangle Type Identifier.dll
